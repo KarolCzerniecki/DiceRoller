@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#0000FF</color> <!-- Niebieski -->
+    <color name="colorPrimaryDark">#00008B</color> <!-- Ciemnoniebieski -->
+    <color name="colorAccent">#FF4500</color> <!-- Pomarańczowy -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Biały -->
+    <color name="colorText">#000000</color> <!-- Czarny -->
+</resources>
